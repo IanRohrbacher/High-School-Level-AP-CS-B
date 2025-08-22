@@ -1,5 +1,5 @@
-# High School Level AP CS B
-A backup of my high school's Java course made from the then discontinued AP course
+# High-School-Level-AP-CS-B
+High school Java class assignments adapted from AP CS B after the course was discontinued at my school.
 >*Created, ran, and tested using Eclipse IDE for Java Developers*
 
 
@@ -16,9 +16,10 @@ A backup of my high school's Java course made from the then discontinued AP cour
 - tick-tack-toe GUI
 
 
-## Getting started
-You can use any compatible Java IDE as all files are .java.
+---
+> **REFERENCE ONLY:** These files are finished assignments uploaded for reference. Do NOT copy and paste my work, but feel free to use it as a learning resource.
+---
 
 
-## Licensing
-The code in this project is licensed under MIT license.
+## License
+The code in this project is licensed under the MIT license.
